@@ -1,0 +1,14 @@
+C:\Users\Alumno\Desktop\Polimorfismo_TV\Polimorfismo_TV\bin\Debug\net8.0\Polimorfismo_TV.exe
+C:\Users\Alumno\Desktop\Polimorfismo_TV\Polimorfismo_TV\bin\Debug\net8.0\Polimorfismo_TV.deps.json
+C:\Users\Alumno\Desktop\Polimorfismo_TV\Polimorfismo_TV\bin\Debug\net8.0\Polimorfismo_TV.runtimeconfig.json
+C:\Users\Alumno\Desktop\Polimorfismo_TV\Polimorfismo_TV\bin\Debug\net8.0\Polimorfismo_TV.dll
+C:\Users\Alumno\Desktop\Polimorfismo_TV\Polimorfismo_TV\bin\Debug\net8.0\Polimorfismo_TV.pdb
+C:\Users\Alumno\Desktop\Polimorfismo_TV\Polimorfismo_TV\obj\Debug\net8.0\Polimorfismo_TV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\Polimorfismo_TV\Polimorfismo_TV\obj\Debug\net8.0\Polimorfismo_TV.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Polimorfismo_TV\Polimorfismo_TV\obj\Debug\net8.0\Polimorfismo_TV.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Polimorfismo_TV\Polimorfismo_TV\obj\Debug\net8.0\Polimorfismo_TV.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Polimorfismo_TV\Polimorfismo_TV\obj\Debug\net8.0\Polimorfismo_TV.dll
+C:\Users\Alumno\Desktop\Polimorfismo_TV\Polimorfismo_TV\obj\Debug\net8.0\refint\Polimorfismo_TV.dll
+C:\Users\Alumno\Desktop\Polimorfismo_TV\Polimorfismo_TV\obj\Debug\net8.0\Polimorfismo_TV.pdb
+C:\Users\Alumno\Desktop\Polimorfismo_TV\Polimorfismo_TV\obj\Debug\net8.0\Polimorfismo_TV.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\Polimorfismo_TV\Polimorfismo_TV\obj\Debug\net8.0\ref\Polimorfismo_TV.dll
